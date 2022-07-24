@@ -10,3 +10,4 @@ Comes with autoDJ to keep requests going when no requests have been added by use
 | [app](https://github.com/Shoutz0r/app)         | The main Shoutz0r repository, containing the application (back & front -end) |
 | [player](https://github.com/Shoutz0r/player)   | The stream generator, interacts with Shoutz0r for playing requests and providing the output stream |
 | [website](https://github.com/Shoutz0r/website) | Github Pages repository for the Shoutz0r website |
+| [.github](https://github.com/Shoutz0r/.github) | Special repository that hosts the readme you're reading right now |
